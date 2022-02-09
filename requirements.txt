@@ -1,0 +1,4 @@
+pytest-describe
+mockito
+responses
+requests
